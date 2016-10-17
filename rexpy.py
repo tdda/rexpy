@@ -1,2 +1,1 @@
-class ReExtract:
-    pass
+print('Hello from rexpy!')
